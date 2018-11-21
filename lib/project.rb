@@ -1,12 +1,12 @@
 class Project
   
-  attr_accessor :name, :project, :backed_projects
+  attr_accessor :title, :backers
 
   def initialize(name)
     
   end
   
-  def back_project(project)
+  def add_backer(backer)
     
   end
 
