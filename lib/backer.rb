@@ -4,7 +4,7 @@ class Backer
 
   def initialize(name)
     @name = name
-    
+    @backers = 
   end
   
   def back_project(project)
